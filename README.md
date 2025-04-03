@@ -108,12 +108,12 @@ Ana es de España, Bruno es de Argentina y Carlos es de Colombia.
 **8-A:** ¡Eso espero!
 
 **Pregunta**  
-Ana va a tomar su examen de manejo. ¿Por qué está nerviosa?
+Ana va a rendir su examen de manejo. ¿Por qué está nerviosa?
 
-a) No ha practicado demasiado.  
+a) No ha practicado lo suficiente.  
 b) Su examen fue postergado para la semana que viene.  
-d) Su examen es hoy.  
-c) No se siente confiada de aprobar.  
+c) Su examen es hoy.  
+d) No se siente confiada de aprobar.  
 
 ### Servicios de texto a voz
 https://ttsfree.com/  
