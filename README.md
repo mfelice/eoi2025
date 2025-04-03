@@ -77,7 +77,7 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 2. Usar un servicio de reconocimiento de voz para generar una transcripción del audio. 
 3. Comparar ambas transcripciones y calcular la tasa de error (WER).
 
-https://github.com/mfelice/giele2023/assets/11545607/28139b7e-3a8d-4adf-9887-e7cd35330aae
+https://github.com/user-attachments/assets/8ecd2eec-a426-4020-8eea-dad5ff3fcfe2
 
 ### Servicios de reconocimiento de voz
 **OpenAI Whisper:** https://replicate.com/openai/whisper  https://course-demos-whisper-small.hf.space/  
