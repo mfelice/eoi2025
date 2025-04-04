@@ -78,6 +78,7 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 3. Comparar ambas transcripciones y calcular la tasa de error (WER).
 
 https://github.com/user-attachments/assets/8ecd2eec-a426-4020-8eea-dad5ff3fcfe2
+Fuente: https://www.youtube.com/watch?v=UKKIkPda4GY
 
 ### Servicios de reconocimiento de voz
 **OpenAI Whisper:** https://replicate.com/openai/whisper  https://course-demos-whisper-small.hf.space/  
