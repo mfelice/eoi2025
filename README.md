@@ -6,6 +6,11 @@ https://teachablemachine.withgoogle.com/train
 
 ## Modelos de lenguaje
 
+### Tarea
+**Crear un ejercicio _cloze_ a partir del siguiente texto. Usar un modelo de lenguaje para identificar palabras óptimas para eliminar.**
+
+Francisco era un niño apasionado por el ajedrez desde pequeño. Un día, mientras jugaba en la plaza, conoció a un gran maestro que lo vio jugar y decidió tomarlo bajo su cuidado. Con sus enseñanzas, Francisco rápidamente mejoró sus habilidades y pronto se convirtió en un famoso jugador de ajedrez. A medida que crecía, Francisco ganó varios torneos importantes y se estableció como uno de los mejores jugadores de España. Su talento natural y dedicación al juego hicieron que fuera considerado uno de los grandes maestros de ajedrez de todos los tiempos.
+
 ### BERT
 Español:  
 https://huggingface.co/spaces/CeibalUY/enmascaramiento_lenguaje  
@@ -22,42 +27,7 @@ https://huggingface.co/spaces/eriksarriegui/word_probs
 ### Predictores de palabras basados en n-gramas (inglés) 
 https://fschoen.shinyapps.io/NextWordPrediction/  
 https://philferriere.shinyapps.io/WordPredictR/
-
-### Tarea
-**Crear un ejercicio _cloze_ a partir del siguiente texto. Usar un modelo de lenguaje para identificar palabras óptimas para eliminar.**
-
-Francisco era un niño apasionado por el ajedrez desde pequeño. Un día, mientras jugaba en la plaza, conoció a un gran maestro que lo vio jugar y decidió tomarlo bajo su cuidado. Con sus enseñanzas, Francisco rápidamente mejoró sus habilidades y pronto se convirtió en un famoso jugador de ajedrez. A medida que crecía, Francisco ganó varios torneos importantes y se estableció como uno de los mejores jugadores de España. Su talento natural y dedicación al juego hicieron que fuera considerado uno de los grandes maestros de ajedrez de todos los tiempos.
-
-### BERT
-Español: https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased  
-Multilingüe: https://huggingface.co/xlm-roberta-large  
-Inglés:  
-https://huggingface.co/spaces/UserConfused/bert-base-uncased  
-https://huggingface.co/bert-base-uncased  
-https://huggingface.co/bert-large-uncased  
-
-### Predictores de palabras basados en GTP-2 (inglés)
-https://demo.allennlp.org/next-token-lm  
-https://huggingface.co/spaces/Bhagu69/next-word-fun  
-
-### Predictores de palabras basados en n-gramas (inglés) 
-https://fschoen.shinyapps.io/NextWordPrediction/  
-https://philferriere.shinyapps.io/WordPredictR/
-
-## Evaluación automática de textos
-
-### Tarea I
-**Entrenar un clasificador para predecir el nivel MCER de un texto y calcular su exactitud.**
-
-**Plataforma de entrenamiento:** https://machinelearningforkids.co.uk/?lang=es  
-
-### Tarea II
-**Determinar manualmente el nivel MCER del siguiente texto escrito por un estudiante de español.**
-
-Nací en Asia y viví mucho tiempo allí en varios países, pero como mis padres son británicos, al cabo de unos años terminamos en Escocia, país natal de mi padre. Siempre he querido volver a Asia a visitar los sitios en donde pasé mi niñez y tuve la oportunidad hace unos años de hacerlo. Habían invitado a mi marido a dar una charla en una universidad en Tailandia, así que, sin más, aceptamos la invitación y nos fuimos. De camino a Tailandia pasamos por Malasia, donde había vivido cuatro años. Avisamos al director de la finca donde había trabajado mi padre de nuestra llegada y nos dirigimos allí. Cuando vivía en Malasia la finca era una plantación de té, mezclado con algunos árboles de goma para dar sombra. Ya solo cultivaban los árboles de goma y los labradores ya no eran indios y chinos, como en mi día, sino gente de Indonesia y Filipinas. El director fue increíblemente amable y nos llevó a mi antigua casa. Era obvio que habían cortado el césped aquel día y se habían molestado mucho en preparar la casa para nuestra visita. Me asombraba que estaba exactamente como cuando vivía en ella hacía 35 años, incluso tenía las mismas cortinas y algunos de los muebles eran los mismos. Entramos en una habitación que anteriormente había sido el despacho de mi padre. No habían tenido tiempo de limpiarlo y estaba llena de telarañas, y casi impenetrable. La casa estaba abandonada, ya que no había tanta personal como en el día de mi padre, y el nuevo director vivía en otra casa en la finca.
-
-### Write&Improve (inglés)
-https://writeandimprove.com/workbooks#/wi-workbooks
+https://technicalelvis.shinyapps.io/shiny_demo_word_predictor/  
 
 ## Corrección gramatical
 
@@ -65,9 +35,11 @@ https://writeandimprove.com/workbooks#/wi-workbooks
 
 **Corregir el siguiente texto:**
 
-My favourite season of the year is summer. I think that most of the people love summer, especially the people in Greece. I dont know why but the summer it is the most beautiful season.  
-I live in Greece, and especially in an island, so I know very well what summer means. It means swimming at the wonderfull beaches, tasting the delicious foods ad having wonderful time every day and every night with your friends.  
-I think that the summer makes people to feel great, to have fun, to enjoy themselves. I believe that the summer is a season for everybody who wants to have wonderful time and wonderful memories wherever the go.  
+Queria presentar me, me llamo Olga, vivo en Rusia, en el pais, que nunca no haya el sol, en Moscu, el la cuidad, en la que nadie no sonria.
+Termine el universidad de Moscu, la facultad fisica. Tengo un trabajo en la empresa petrolera como engeniero.
+Tengo una hija violinista y dos hijos, el mayor es ingeniero, y menor es el gionista.
+Hace sinco años yo y mi marido hemos comprado el piso en Tenerife, una de Islas Canarias. Este es lo que he motivado mi solicitud de estudiar espanol.
+Aparte de esto me gustan mucho cultura, literatura, pintura y escultura de España y historia de España y America Latina. Me parece que las peliculas españolas son unos de mas interesantes en el mundo.
 
 ### Correctores gramaticales
 Español:
@@ -86,6 +58,21 @@ Inglés:
 
 ### ERRANT
 https://nlptoolbox.cl.cam.ac.uk/errant/
+
+## Evaluación automática de textos
+
+### Tarea I
+**Entrenar un clasificador para predecir el nivel MCER de un texto y calcular su exactitud.**
+
+**Plataforma de entrenamiento:** https://machinelearningforkids.co.uk/?lang=es  
+
+### Tarea II
+**Determinar manualmente el nivel MCER del siguiente texto escrito por un estudiante de español.**
+
+Nací en Asia y viví mucho tiempo allí en varios países, pero como mis padres son británicos, al cabo de unos años terminamos en Escocia, país natal de mi padre. Siempre he querido volver a Asia a visitar los sitios en donde pasé mi niñez y tuve la oportunidad hace unos años de hacerlo. Habían invitado a mi marido a dar una charla en una universidad en Tailandia, así que, sin más, aceptamos la invitación y nos fuimos. De camino a Tailandia pasamos por Malasia, donde había vivido cuatro años. Avisamos al director de la finca donde había trabajado mi padre de nuestra llegada y nos dirigimos allí. Cuando vivía en Malasia la finca era una plantación de té, mezclado con algunos árboles de goma para dar sombra. Ya solo cultivaban los árboles de goma y los labradores ya no eran indios y chinos, como en mi día, sino gente de Indonesia y Filipinas. El director fue increíblemente amable y nos llevó a mi antigua casa. Era obvio que habían cortado el césped aquel día y se habían molestado mucho en preparar la casa para nuestra visita. Me asombraba que estaba exactamente como cuando vivía en ella hacía 35 años, incluso tenía las mismas cortinas y algunos de los muebles eran los mismos. Entramos en una habitación que anteriormente había sido el despacho de mi padre. No habían tenido tiempo de limpiarlo y estaba llena de telarañas, y casi impenetrable. La casa estaba abandonada, ya que no había tanta personal como en el día de mi padre, y el nuevo director vivía en otra casa en la finca.
+
+### Write&Improve (inglés)
+https://writeandimprove.com/workbooks#/wi-workbooks
 
 ## Reconocimiento automático del habla
 **Tarea**
