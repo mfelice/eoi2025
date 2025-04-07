@@ -7,12 +7,14 @@ https://teachablemachine.withgoogle.com/train
 ## Modelos de lenguaje
 
 ### BERT
-Español: 
+Español:
+
 https://huggingface.co/spaces/CeibalUY/enmascaramiento_lenguaje
 https://huggingface.co/spaces/mrolando/mask_lenguage_spanish
 https://huggingface.co/spaces/srjosueaaron/fill-mask-demo
 
 Inglés:
+
 https://huggingface.co/spaces/UserConfused/bert-base-uncased
 https://huggingface.co/spaces/pulkitmehtawork/modern_bert_large_fill_mask
 https://huggingface.co/spaces/ysdede/fill-mask-demo
