@@ -1,11 +1,27 @@
 # Herramientas de inteligencia artificial para la práctica y evaluación de idiomas
 
-## Introducción
+## Introdución
 
-### Ejercicios interactivos
-www.menti.com
+https://teachablemachine.withgoogle.com/train
 
 ## Modelos de lenguaje
+
+### BERT
+Español: 
+https://huggingface.co/spaces/CeibalUY/enmascaramiento_lenguaje
+https://huggingface.co/spaces/mrolando/mask_lenguage_spanish
+https://huggingface.co/spaces/srjosueaaron/fill-mask-demo
+
+Inglés:
+https://huggingface.co/spaces/UserConfused/bert-base-uncased
+https://huggingface.co/spaces/pulkitmehtawork/modern_bert_large_fill_mask
+https://huggingface.co/spaces/ysdede/fill-mask-demo
+https://huggingface.co/spaces/merve/fill-in-the-blank
+https://huggingface.co/spaces/eriksarriegui/word_probs
+
+### Predictores de palabras basados en n-gramas (inglés) 
+https://fschoen.shinyapps.io/NextWordPrediction/  
+https://philferriere.shinyapps.io/WordPredictR/
 
 ### Tarea
 **Crear un ejercicio _cloze_ a partir del siguiente texto. Usar un modelo de lenguaje para identificar palabras óptimas para eliminar.**
@@ -186,3 +202,8 @@ Escribir las instrucciones necesarias para crear una imagen como la siguiente.
 **DALL·E 2:** https://labs.openai.com/  
 **Stable Diffusion:** https://stablediffusion.fr/xl https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
 **Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
+
+# Recursos de alfabetización en IA
+
+UNESCO guides for teachers and students
+BC position paper
