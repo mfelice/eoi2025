@@ -43,21 +43,20 @@ Aparte de esto me gustan mucho cultura, literatura, pintura y escultura de Espa�
 
 ### Correctores gramaticales
 Español:
-https://spanishchecker.com/es/ 
-https://abccorrector.com/corrector-castellano.html 
+https://spanishchecker.com/es/  
+https://abccorrector.com/corrector-castellano.html  
 https://lorcaeditor.com/  
 Multilingües: 
 **LanguageTool:** https://languagetool.org/  
+**QuillBot:** https://quillbot.com/grammar-check  
 **Reverso:** https://www.reverso.net/ortografia/
 **Zoho:** https://www.zoho.com/es-xl/writer/free-grammar-checker.html  
 Inglés:
 **Grammarly:** https://www.grammarly.com/grammar-check  
-**QuillBot:** https://quillbot.com/grammar-check  
 **Ginger:** https://www.gingersoftware.com/grammarcheck  
-**Writer:** https://writer.com/grammar-checker/  
 
 ### ERRANT
-https://nlptoolbox.cl.cam.ac.uk/errant/
+https://nlptoolbox.cl.cam.ac.uk/errant/ ([ejemplo](https://nlptoolbox.cl.cam.ac.uk/errant/?206b6d2de6b44c54a3c52f0d6581686b))  
 
 ## Evaluación automática de textos
 
