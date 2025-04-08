@@ -192,11 +192,10 @@ Crear un chatbot para automatizar la generación de contenido.
 
 ## Generación de imágenes y video  
 ## Tarea I  
-Crear un poster para enseñar la hora en un idioma elegido.
-(ChatGPT).  
+Crear un poster para enseñar la hora en un idioma elegido. (ChatGPT)    
 
 ## Tarea II  
-Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un GPT.  
+Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un GPT.  ([ejemplo](https://ai.invideo.io/watch/60WYDpmQWSV))
 
 ### Generadores de imágenes
 **ChatGPT:** https://chat.openai.com/  
@@ -208,5 +207,7 @@ Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un 
 
 # Recursos de alfabetización en IA
 
-UNESCO guides for teachers and students
-BC position paper
+UNESCO: [AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104)
+UNESCO: [AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105)
+British Council: [Human-centred AI: lessons for English learning and assessment](https://www.britishcouncil.org/research-insight/human-centred-ai-lessons-english-learning-assessment)
+
