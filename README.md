@@ -26,7 +26,7 @@ https://huggingface.co/spaces/eriksarriegui/word_probs
 
 ### Predictores de palabras basados en n-gramas (inglés) 
 https://fschoen.shinyapps.io/NextWordPrediction/  
-https://philferriere.shinyapps.io/WordPredictR/
+https://philferriere.shinyapps.io/WordPredictR/  
 https://technicalelvis.shinyapps.io/shiny_demo_word_predictor/  
 
 ## Corrección gramatical
@@ -42,16 +42,16 @@ Hace sinco años yo y mi marido hemos comprado el piso en Tenerife, una de Islas
 Aparte de esto me gustan mucho cultura, literatura, pintura y escultura de España y historia de España y America Latina. Me parece que las peliculas españolas son unos de mas interesantes en el mundo.
 
 ### Correctores gramaticales
-Español:
+Español:  
 https://spanishchecker.com/es/  
 https://abccorrector.com/corrector-castellano.html  
 https://lorcaeditor.com/  
-Multilingües: 
+Multilingües:  
 **LanguageTool:** https://languagetool.org/  
 **QuillBot:** https://quillbot.com/grammar-check  
-**Reverso:** https://www.reverso.net/ortografia/
+**Reverso:** https://www.reverso.net/ortografia/  
 **Zoho:** https://www.zoho.com/es-xl/writer/free-grammar-checker.html  
-Inglés:
+Inglés:  
 **Grammarly:** https://www.grammarly.com/grammar-check  
 **Ginger:** https://www.gingersoftware.com/grammarcheck  
 
@@ -66,12 +66,22 @@ https://nlptoolbox.cl.cam.ac.uk/errant/ ([ejemplo](https://nlptoolbox.cl.cam.ac.
 **Plataforma de entrenamiento:** https://machinelearningforkids.co.uk/?lang=es  
 
 ### Tarea II
-**Determinar manualmente el nivel MCER del siguiente texto escrito por un estudiante de español.**
+**Determinar manualmente el nivel MCER del siguiente texto:**  
+  
+I think that study abroad is a beautiful experience for some students. They learn a new langage, meet new people and discover a new culture. But for others, being far from what they know, from their friends and family, could be catastrophic. For example, there are host families who are totally unfriendly with foreigner students. In this case, the student coul feel very bad, sad and maybe he will isolate him/herself from the social world. Furthemore, some students could be 'alone' and lost when they go abroad to study. It could lead to school/academic failure and to depression.
+So I don't think that study abroad should be a compulsory part of education. It depends too much on the student's personality and the situation within he/she will be.
 
-Nací en Asia y viví mucho tiempo allí en varios países, pero como mis padres son británicos, al cabo de unos años terminamos en Escocia, país natal de mi padre. Siempre he querido volver a Asia a visitar los sitios en donde pasé mi niñez y tuve la oportunidad hace unos años de hacerlo. Habían invitado a mi marido a dar una charla en una universidad en Tailandia, así que, sin más, aceptamos la invitación y nos fuimos. De camino a Tailandia pasamos por Malasia, donde había vivido cuatro años. Avisamos al director de la finca donde había trabajado mi padre de nuestra llegada y nos dirigimos allí. Cuando vivía en Malasia la finca era una plantación de té, mezclado con algunos árboles de goma para dar sombra. Ya solo cultivaban los árboles de goma y los labradores ya no eran indios y chinos, como en mi día, sino gente de Indonesia y Filipinas. El director fue increíblemente amable y nos llevó a mi antigua casa. Era obvio que habían cortado el césped aquel día y se habían molestado mucho en preparar la casa para nuestra visita. Me asombraba que estaba exactamente como cuando vivía en ella hacía 35 años, incluso tenía las mismas cortinas y algunos de los muebles eran los mismos. Entramos en una habitación que anteriormente había sido el despacho de mi padre. No habían tenido tiempo de limpiarlo y estaba llena de telarañas, y casi impenetrable. La casa estaba abandonada, ya que no había tanta personal como en el día de mi padre, y el nuevo director vivía en otra casa en la finca.
+### Otros sistemas  
+https://www.paperrater.com/free_paper_grader (basado en features)  
+https://huggingface.co/spaces/KevSun/MultiDim_Automated_Scoring_English_Essays (basado en deep learning)  
 
 ### Write&Improve (inglés)
-https://writeandimprove.com/workbooks#/wi-workbooks
+https://writeandimprove.com/workbooks#/wi-workbooks  
+
+### Simuladores de evaluación para IELTS  
+https://www.writinglab.io/ielts-essay-checker  
+https://engnovate.com/ielts-writing-task-2-essay-checker/  
+https://upscore.ai/trainer  
 
 ## Reconocimiento automático del habla
 **Tarea**
@@ -83,8 +93,8 @@ https://github.com/user-attachments/assets/8ecd2eec-a426-4020-8eea-dad5ff3fcfe2
 
 Fuente: https://www.youtube.com/watch?v=UKKIkPda4GY
 
-### Servicios de reconocimiento de voz
-**OpenAI Whisper:** https://replicate.com/openai/whisper  https://course-demos-whisper-small.hf.space/  
+### Servicios de reconocimiento de voz  
+**OpenAI Whisper:** https://huggingface.co/spaces/openai/whisper https://course-demos-whisper-small.hf.space/  
 **AssemblyAI:** https://www.assemblyai.com/playground/source  
 **VoiceGain:** https://demo.voicegain.ai/  
 
