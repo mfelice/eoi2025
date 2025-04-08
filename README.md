@@ -205,7 +205,7 @@ Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un 
 **Stable Diffusion:** https://stablediffusionweb.com/#demo | https://stablediffusion.fr/xl  
 **Openjourney 4:** https://huggingface.co/spaces/Yntec/ToyWorld  
 
-# Recursos de alfabetización en IA
+## Recursos de alfabetización en IA
 
 [AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104) (UNESCO)  
 Creado por la UNESCO, este marco busca guiar a los profesores en el uso adecuado de la IA en la educación y fomentar su desarrollo profesional continuo.  
