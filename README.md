@@ -150,62 +150,53 @@ https://audio-joiner.com/
 
 ### LLMs
 **ChatGPT:** https://chat.openai.com/  
-**Gemini:** https://gemini.google.com/
+**Gemini:** https://gemini.google.com/  
 **Bing Chat (GPT-4):** https://www.microsoft.com/en-us/edge/launch/bing-chat-features?form=MT00IR  
 **ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ | https://talkai.info/chat/  
 **Perplexity:** https://labs.perplexity.ai/  
 **Llama 2:** https://www.llama2.space/  
 **Claude:** https://claude.ai/  
 
-### Tarea I
-¿Quién escribió estos textos?
-¿Un humano o una máquina?
+**Directorio de prompts:** https://prompts.chat/  
+
+### Tarea
+Analizar los dos textos y decidir si fueron generados por IA o un humano.  
 
 **Texto 1**  
 Every country in the world suffers environmental catastrophes. This is a natural consequence of the struggle between development and environment. If a country decided to live isolated from the rest of the world, living on what it can naturally grow and produce, it surely wouldn’t be highly polluted. But we all want exotic food and technological items from all over the world, so we have to pay the price. Investing on electrical transport would benefit the environment a lot. Even more if this electricity came from a natural source of energy like wind, rivers and solar boards. We also have to take care of our rivers and seas. We all have heard about factories throwing highly toxic substances to rivers, without minimizing their poisoning effects. A really strict law should be applied to fine these factories and make them change their policy.
 
 **Texto 2**  
-Global warming is a serious issue that affects the entire planet. The Earth's temperature is rising because of human activities. When we burn fossil fuels like coal, oil, and gas, harmful gases are released into the atmosphere. These gases trap heat from the sun and cause the Earth to become warmer. This leads to various problems such as melting ice caps, rising sea levels, and extreme weather events. It is important to reduce our carbon footprint by using less energy and finding cleaner sources of power. We can also make a difference by recycling, conserving water, and protecting natural habitats. Taking action against global warming is crucial for the well-being of our planet and future generations.
-
-**Texto 3**  
 Society has a responsibility to take care of the environment. We all live on this planet, so it's important for us to do our part to keep it clean and healthy. There are many things we can do to be environmentally responsible. We should recycle our waste, such as paper, plastic, and cans, instead of throwing them away. It's also important to save energy by turning off lights and appliances when we're not using them. Using public transportation or carpooling can help reduce pollution from cars. We should also avoid wasting water and try to conserve it. Planting trees and taking part in community clean-up activities are great ways to contribute to a cleaner environment. By being environmentally responsible, we can make a positive impact on our planet and ensure a better future for ourselves and future generations.
 
 ### Detectores de contenido generado por IA
+https://undetectable.ai/  
 https://gptzero.me/  
 https://writer.com/ai-content-detector/  
 https://platform.openai.com/ai-text-classifier  
 https://contentatscale.ai/ai-content-detector/  
 https://www.wordtune.com/ai-content-detector  
-https://undetectable.ai/  
 https://originality.ai/ (de pago)  
 
-### Tarea II
+## Generación de material educativo
 
-¿Puedes "humanizar" el siguiente texto generado mediante IA?
-¿Es posible engañar a los detectores?
 
-**The Importance of Art**
+## Chatbots personalizados
 
-Art is a vital part of human life. It offers many benefits to individuals and society as a whole. One of art's most important roles is as a universal language that can bridge cultural gaps and foster understanding among diverse communities. Art also provides a unique way to express emotions and explore oneself.
 
-In education, art can enhance cognitive development, creativity, and problemsolving skills. It can also beautify our surroundings and instill a sense of pride and cultural identity within communities. Furthermore, art can challenge societal norms and encourage critical thinking, making it a catalyst for social change and progress.
-
-In essence, art is more than just a form of entertainment; it is a powerful tool that can enrich lives, promote empathy, and nurture creativity. By embracing art in all its forms, we can enhance our collective human experience and create a more vibrant and culturally rich society.
-
-### "Humanizadores" de texto generado por IA
-https://undetectable.ai/ (de pago)  
-
-## Texto a imagen
+## Generación de imágenes y video
 
 ### Tarea
-Escribir las instrucciones necesarias para crear una imagen como la siguiente.
+Escribir un prompt para necesarias para crear una imagen como la siguiente.
 
 ![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
 
 ### Generadores de imágenes mediante IA
-**DALL·E 2:** https://labs.openai.com/  
-**Stable Diffusion:** https://stablediffusion.fr/xl https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
-**Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
+**ChatGPT:** https://chat.openai.com/  
+**Gemini:** https://gemini.google.com/  
+**Google ImageFX:** https://labs.google/fx/tools/image-fx  
+**Microsoft Designer:** https://designer.microsoft.com/image-creator  
+**Stable Diffusion:** https://stablediffusionweb.com/#demo | https://stablediffusion.fr/xl 
+**Openjourney 4:** https://huggingface.co/spaces/Yntec/ToyWorld  
 
 # Recursos de alfabetización en IA
 
