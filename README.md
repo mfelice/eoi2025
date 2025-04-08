@@ -255,4 +255,18 @@ Un curso de IA para principiantes desarrollado por el gobierno finlandés. Muy c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 [x](https://limewire.com/d/EGcru#KNKXAAUfOi)
