@@ -190,14 +190,15 @@ Crear un chatbot para automatizar la generación de contenido.
 **Gems:** https://gemini.google.com/gems/view  
 **GPTs:** https://chatgpt.com/gpts (de pago)  
 
-## Generación de imágenes
+## Generación de imágenes y video  
+## Tarea I  
+Crear un poster para enseñar la hora en un idioma elegido.
+(ChatGPT).  
 
-### Tarea
-Escribir un prompt para necesarias para crear una imagen como la siguiente.
+## Tarea II  
+Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un GPT.  
 
-![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
-
-### Generadores de imágenes mediante IA
+### Generadores de imágenes
 **ChatGPT:** https://chat.openai.com/  
 **Gemini:** https://gemini.google.com/  
 **Google ImageFX:** https://labs.google/fx/tools/image-fx  
