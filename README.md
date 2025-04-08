@@ -152,7 +152,7 @@ https://audio-joiner.com/
 **ChatGPT:** https://chat.openai.com/  
 **Gemini:** https://gemini.google.com/  
 **Bing Chat (GPT-4):** https://www.microsoft.com/en-us/edge/launch/bing-chat-features?form=MT00IR  
-**ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ | https://talkai.info/chat/  
+**ChatGPT (no oficial):** https://chat.chatgptdemo.net/ | https://talkai.info/chat/  
 **Perplexity:** https://labs.perplexity.ai/  
 **Llama 2:** https://www.llama2.space/  
 **Claude:** https://claude.ai/  
@@ -179,11 +179,18 @@ https://originality.ai/ (de pago)
 
 ## Generación de material educativo
 
+### Tarea  
+Generar un texto sobre un tema y en un idioma a elección, para alumnos de nivel C1. A continuación, generar una lista de vocabulario, un ejercicio de verdadero/falso (5 ítems) y un multiple choice tipo cloze (10 ítems con 4 opciones c/u). ¿Cómo juzgarías la calidad? ¿Varía entre servicios?  
 
 ## Chatbots personalizados
 
+### Tarea   
+Crear un chatbot para automatizar la generación de contenido.  
 
-## Generación de imágenes y video
+**Gems:** https://gemini.google.com/gems/view  
+**GPTs:** https://chatgpt.com/gpts (de pago)  
+
+## Generación de imágenes
 
 ### Tarea
 Escribir un prompt para necesarias para crear una imagen como la siguiente.
@@ -195,7 +202,7 @@ Escribir un prompt para necesarias para crear una imagen como la siguiente.
 **Gemini:** https://gemini.google.com/  
 **Google ImageFX:** https://labs.google/fx/tools/image-fx  
 **Microsoft Designer:** https://designer.microsoft.com/image-creator  
-**Stable Diffusion:** https://stablediffusionweb.com/#demo | https://stablediffusion.fr/xl 
+**Stable Diffusion:** https://stablediffusionweb.com/#demo | https://stablediffusion.fr/xl  
 **Openjourney 4:** https://huggingface.co/spaces/Yntec/ToyWorld  
 
 # Recursos de alfabetización en IA
