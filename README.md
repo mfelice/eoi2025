@@ -228,4 +228,31 @@ Un proyecto Erasmus+ K3 diseñado por Francia, Eslovenia, Italia, Irlanda y Luxe
 [Elements of AI](https://www.elementsofai.com/eu2019fi)  
 Un curso de IA para principiantes desarrollado por el gobierno finlandés. Muy claro, en lenguaje sencillo, con excelentes elementos visuales y ejercicios. También se puede obtener un certificado de finalización. Disponible en todos los idiomas oficiales de la UE. Muy recomendable.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [x](https://limewire.com/d/EGcru#KNKXAAUfOi)
