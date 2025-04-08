@@ -210,7 +210,7 @@ Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un 
 [AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104) (UNESCO)  
 Creado por la UNESCO, este marco busca guiar a los profesores en el uso adecuado de la IA en la educación y fomentar su desarrollo profesional continuo.  
 
-UNESCO: [AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105) (UNESCO)   
+[AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105) (UNESCO)   
 Desarrollado por la UNESCO, este marco tiene como objetivo preparar a los estudiantes para ser ciudadanos responsables y creativos en la era de la IA.  
 
 [Human-centred AI: lessons for English learning and assessment](https://www.britishcouncil.org/research-insight/human-centred-ai-lessons-english-learning-assessment) (British Council)  
