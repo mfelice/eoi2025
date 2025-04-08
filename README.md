@@ -46,26 +46,24 @@ Español:
 https://spanishchecker.com/es/  
 https://abccorrector.com/corrector-castellano.html  
 https://lorcaeditor.com/  
+
+Inglés:  
+**Grammarly:** https://www.grammarly.com/grammar-check  
+**Ginger:** https://www.gingersoftware.com/grammarcheck  
+
 Multilingües:  
 **LanguageTool:** https://languagetool.org/  
 **QuillBot:** https://quillbot.com/grammar-check  
 **Reverso:** https://www.reverso.net/ortografia/  
 **Zoho:** https://www.zoho.com/es-xl/writer/free-grammar-checker.html  
-Inglés:  
-**Grammarly:** https://www.grammarly.com/grammar-check  
-**Ginger:** https://www.gingersoftware.com/grammarcheck  
 
 ### ERRANT
 https://nlptoolbox.cl.cam.ac.uk/errant/ ([ejemplo](https://nlptoolbox.cl.cam.ac.uk/errant/?206b6d2de6b44c54a3c52f0d6581686b))  
 
 ## Evaluación automática de textos
 
-### Tarea I
-**Entrenar un clasificador para predecir el nivel MCER de un texto y calcular su exactitud.**
+### Tarea  
 
-**Plataforma de entrenamiento:** https://machinelearningforkids.co.uk/?lang=es  
-
-### Tarea II
 **Determinar manualmente el nivel MCER del siguiente texto:**  
   
 I think that study abroad is a beautiful experience for some students. They learn a new langage, meet new people and discover a new culture. But for others, being far from what they know, from their friends and family, could be catastrophic. For example, there are host families who are totally unfriendly with foreigner students. In this case, the student coul feel very bad, sad and maybe he will isolate him/herself from the social world. Furthemore, some students could be 'alone' and lost when they go abroad to study. It could lead to school/academic failure and to depression.
