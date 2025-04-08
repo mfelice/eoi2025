@@ -81,7 +81,7 @@ https://www.writinglab.io/ielts-essay-checker
 https://engnovate.com/ielts-writing-task-2-essay-checker/  
 https://upscore.ai/trainer  
 
-## Reconocimiento automático del habla
+## Reconocimiento de voz
 **Tarea**
 1. Escuchar el siguiente fragmento de audio y transcribir lo que se dice.
 2. Usar un servicio de reconocimiento de voz para generar una transcripción del audio. 
@@ -92,9 +92,13 @@ https://github.com/user-attachments/assets/8ecd2eec-a426-4020-8eea-dad5ff3fcfe2
 Fuente: https://www.youtube.com/watch?v=UKKIkPda4GY
 
 ### Servicios de reconocimiento de voz  
-**OpenAI Whisper:** https://huggingface.co/spaces/openai/whisper https://course-demos-whisper-small.hf.space/  
+**OpenAI Whisper:** https://huggingface.co/spaces/openai/whisper | https://course-demos-whisper-small.hf.space/  
 **AssemblyAI:** https://www.assemblyai.com/playground/source  
-**VoiceGain:** https://demo.voicegain.ai/  
+**TalkNotes:** https://talknotes.io/tools/transcribe-to-text  
+**Aspose:** https://products.aspose.ai/total/speech-to-text/  
+**Speech-to-text:** https://www.speech-to-text.cloud/
+
+**Comparación de ASR:** https://demos.speechmatics.com/
 
 ### Calculadora WER
 https://www.amberscript.com/en/wer-tool/
@@ -130,21 +134,27 @@ d) No se siente confiada de aprobar.
 ### Servicios de texto a voz
 https://ttsfree.com/  
 https://ttsmp3.com/  
-https://ttstool.com/  
-https://huggingface.co/spaces/elevenlabs/tts  
-https://freetools.textmagic.com/text-to-speech  
-https://speechgen.io/
+https://ttstool.com/   
+https://speechgen.io/  
+https://www.audyo.ai/  
+https://luvvoice.com/  
+https://speechgen.io/  
+https://freereadtext.com/en  
+https://crikk.com/text-to-speech/  
+https://texttospeech.online/  
 
 ### Unificador de audio
 https://audio-joiner.com/
 
-## Modelos de lenguaje de gran tamaño
+## IA generativa
 
 ### LLMs
 **ChatGPT:** https://chat.openai.com/  
+**Gemini:** https://gemini.google.com/
 **Bing Chat (GPT-4):** https://www.microsoft.com/en-us/edge/launch/bing-chat-features?form=MT00IR  
-**ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ https://talkai.info/chat/  
-**Llama 2:** https://labs.perplexity.ai/ https://www.llama2.space/  
+**ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ | https://talkai.info/chat/  
+**Perplexity:** https://labs.perplexity.ai/  
+**Llama 2:** https://www.llama2.space/  
 **Claude:** https://claude.ai/  
 
 ### Tarea I
