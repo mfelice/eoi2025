@@ -207,13 +207,13 @@ Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un 
 
 ## Recursos de alfabetización en IA
 
-[AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104) (UNESCO)  
+[AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104)   
 Creado por la UNESCO, este marco busca guiar a los profesores en el uso adecuado de la IA en la educación y fomentar su desarrollo profesional continuo.  
 
-[AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105) (UNESCO)   
+[AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105)    
 Desarrollado por la UNESCO, este marco tiene como objetivo preparar a los estudiantes para ser ciudadanos responsables y creativos en la era de la IA.  
 
-[Human-centred AI: lessons for English learning and assessment](https://www.britishcouncil.org/research-insight/human-centred-ai-lessons-english-learning-assessment) (British Council)  
+[Human-centred AI: lessons for English learning and assessment](https://www.britishcouncil.org/research-insight/human-centred-ai-lessons-english-learning-assessment)  
 Artículo que describe la posición del British Council en el uso de IA para el aprendizaje y evaluación de idiomas, con énfasis en el uso responsable y la ética.
 
 [AI in 5 Minutes](https://www.aiedu.org/ai-in-five)  
