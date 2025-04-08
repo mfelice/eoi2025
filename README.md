@@ -207,13 +207,13 @@ Generar un video sobre homófonos comunes del idioma, con ejemplos. Utilizar un 
 
 # Recursos de alfabetización en IA
 
-UNESCO: [AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104)  
+[AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104) (UNESCO)  
 Creado por la UNESCO, este marco busca guiar a los profesores en el uso adecuado de la IA en la educación y fomentar su desarrollo profesional continuo.  
 
-UNESCO: [AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105)  
+UNESCO: [AI competency framework for students](https://unesdoc.unesco.org/ark:/48223/pf0000391105) (UNESCO)   
 Desarrollado por la UNESCO, este marco tiene como objetivo preparar a los estudiantes para ser ciudadanos responsables y creativos en la era de la IA.  
 
-British Council: [Human-centred AI: lessons for English learning and assessment](https://www.britishcouncil.org/research-insight/human-centred-ai-lessons-english-learning-assessment)  
+[Human-centred AI: lessons for English learning and assessment](https://www.britishcouncil.org/research-insight/human-centred-ai-lessons-english-learning-assessment) (British Council)  
 Artículo que describe la posición del British Council en el uso de IA para el aprendizaje y evaluación de idiomas, con énfasis en el uso responsable y la ética.
 
 [AI in 5 Minutes](https://www.aiedu.org/ai-in-five)  
@@ -222,9 +222,9 @@ Artículo súper corto que explica conceptos clave en IA.
 [How AI Works](https://code.org/ai#ai-videos)  
 Videos introductorios cortos, fáciles y casuales sobre diferentes tareas dentro de la IA por expertos en el campo (OpenAI, Microsoft, Amazon, etc.). Buen punto de partida.  
 
-[AI for Teachers](https://www.ai4t.eu/)
+[AI for Teachers](https://www.ai4t.eu/)  
 Un proyecto Erasmus+ K3 diseñado por Francia, Eslovenia, Italia, Irlanda y Luxemburgo para contribuir a la formación sobre IA en educación para y por profesores y líderes escolares. Contiene recursos útiles como artículos, un libro de texto sobre IA para profesores y una guía sobre cómo usar ChatGPT en educación por la UNESCO.  
 
-[Elements of AI](https://www.elementsofai.com/eu2019fi)
+[Elements of AI](https://www.elementsofai.com/eu2019fi)  
 Un curso de IA para principiantes desarrollado por el gobierno finlandés. Muy claro, en lenguaje sencillo, con excelentes elementos visuales y ejercicios. También se puede obtener un certificado de finalización. Disponible en todos los idiomas oficiales de la UE. Muy recomendable.
 
